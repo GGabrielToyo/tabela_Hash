@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1646371225 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\tabela_hash\entidade.c
+	<stdio.h>
+	<stdlib.h>
+	"Entidade.h"
+
+1646373094 c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\tabela_hash\entidade.h
+
+1646373094 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\tabela_hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Entidade.h"
+
